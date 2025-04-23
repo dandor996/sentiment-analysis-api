@@ -1,0 +1,3 @@
+nlp-env/
+*.pyc
+__pycache__/
