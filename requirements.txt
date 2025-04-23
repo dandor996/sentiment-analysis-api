@@ -3,3 +3,4 @@ uvicorn==0.20.0
 transformers==4.22.0
 torch==2.6.0
 pydantic
+tokenizers==0.12.1
